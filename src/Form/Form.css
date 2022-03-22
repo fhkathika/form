@@ -1,0 +1,31 @@
+.general_form{
+    margin: 30px 150px;
+    align-items: center;
+    display: block;
+    
+    box-shadow: 5px 5px 5px rgb(241, 238, 238);
+}
+.general_form_input{
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 500px;
+}
+.label{
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+}
+.submit_btn{
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    background-color: bisque;  
+}
+.error{
+    color: red;
+}
