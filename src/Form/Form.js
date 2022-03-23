@@ -14,7 +14,7 @@ export default function Form() {
   return (
     <div className='general_form'>
         <Bar></Bar>
-        <Link to='/home'>
+        <Link to='/'>
 <h2 className='form_style'><i class='fas fa-arrow-left arrow' ></i>Edit General Information</h2>
 </Link>
 <form onSubmit={handleSubmit}>

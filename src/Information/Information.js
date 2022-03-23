@@ -18,7 +18,7 @@ const handleClick=()=>{
            
         <h2 className='headline'>General Info </h2>
         <Link to='/form' >   
-         <p className='headline' ><i class='far fa-edit'></i></p>
+        <i class='far fa-edit' style={{fontSize:'25px'}}></i>
          </Link>
        
         
@@ -45,7 +45,7 @@ const handleClick=()=>{
        
         <Link to='/form' >
         
-        <p className='headline'  ><i class='far fa-edit'></i></p>
+        <i class='far fa-edit'style={{fontSize:'25px'}}></i>
 </Link>
     
        
