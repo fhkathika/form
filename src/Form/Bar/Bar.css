@@ -1,0 +1,21 @@
+a{
+    margin: 10px;
+    padding-top: 15px;
+    text-decoration: none;
+    color: gray;
+}
+a:focus{
+    color: rgb(96 165 250);
+    /* text-decoration: underline; */
+    border-bottom: 2px solid rgb(96 165 250);
+    padding-bottom: 7px
+}
+.general_form{
+    width: 50%;
+    margin: auto;
+    align-items: center;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 35px  rgb(241, 238, 238);
+}
